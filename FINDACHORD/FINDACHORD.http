@@ -1,0 +1,6 @@
+@FINDACHORD_HostAddress = http://localhost:5231
+
+GET {{FINDACHORD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
